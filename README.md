@@ -1,2 +1,2 @@
 # Blog-preview-card-main
-An emplimentation of frontend mentor code challenge.
+An implimentation of frontend mentor code challenge.
